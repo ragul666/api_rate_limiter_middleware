@@ -1,0 +1,7 @@
+{
+  "window_seconds": 60,
+  "default_limit": 100,
+  "endpoints": {
+    "/upload": 10
+  }
+}
